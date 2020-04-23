@@ -1,5 +1,8 @@
 # PrometheusLab
- Part of the CICD module 
+[![forthebadge cc-0](http://ForTheBadge.com/images/badges/cc-0.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+Part of the CICD module 
 
 ### :one: Installing Prometheus:
 
@@ -165,7 +168,7 @@ res.end(prom.register.metrics());
 </p>
 </details>
 
-###
+---
 
 ### :zap: prometheus.yml file:
 
@@ -214,3 +217,4 @@ scrape_configs:
 ```
 
 ### Preview of localhost:9090/targets:
+![Preview](https://github.com/theJaxon/PrometheusLab/blob/master/etc/Final.jpg)
